@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1663957230 source:c:\users\sebas\documents\codeblocks\tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"titulo.h"
+	"jugador.h"
+	"equipo.h"
+
+1663956937 source:c:\users\sebas\documents\codeblocks\tda\jugador.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"jugador.h"
+	"titulo.h"
+
+1663957251 c:\users\sebas\documents\codeblocks\tda\jugador.h
+
+1663956753 c:\users\sebas\documents\codeblocks\tda\jugador.c
+	<string.h>
+	<stdlib.h>
+	"jugador.h"
+	"titulo.h"
+
+1663956924 c:\users\sebas\documents\codeblocks\tda\titulo.h
+
+1663956764 c:\users\sebas\documents\codeblocks\tda\titulo.c
+	<string.h>
+	<stdlib.h>
+	"titulo.h"
+
+1663956964 source:c:\users\sebas\documents\codeblocks\tda\titulo.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"titulo.h"
+
+1663957296 source:c:\users\sebas\documents\codeblocks\tda\equipo.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"equipo.h"
+	"jugador.h"
+
+1663957048 c:\users\sebas\documents\codeblocks\tda\equipo.h
+
+1663956778 c:\users\sebas\documents\codeblocks\tda\equipo.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"equipo.h"
+	"jugador.h"
+
